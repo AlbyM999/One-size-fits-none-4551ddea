@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+.pepe{
+	width: 1000px;
+	height: 1000px;
+}
+.frank {
+	color: gold;
+}
+a {
+	color: pink;
+	background-color: black;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 15pt;
+}
+ol {
+	color: white;
+	background-color: black;
+	font-family: serif;
+	font-weight: normal;
+	font-size: 18pt;
+}
+
+body{
+	background-color: #74992e;
+}
